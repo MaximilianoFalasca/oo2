@@ -1,4 +1,4 @@
-package ar.edu.unlp.info.oo1.oo2.ej2;
+package ar.edu.unlp.info.oo1.oo2.repaso.ej2;
 
 import java.util.List;
 
